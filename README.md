@@ -1,0 +1,2 @@
+# codeForEveryone
+basic responsive page
